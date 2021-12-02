@@ -1,11 +1,9 @@
-# projet1-092021
-first project in css HTML
+# Welcome to Les Confinés' repository !
+This project is the first project of the 5-months Wild Code School bootcamp. It lasted for 10 days, at the very beginning of our Web Developpment journey. 
 
 
-Members of the team : Ambre, Arezki, Bouchra, Sophie, Philippe et Yann
+Members of the team : Ambre Thevenin, Arezki Ait Darna, Bouchra Mazouzi, Sophie Lepert, Philippe Moty et Yann Dufaure
 
-The project starts o the 27th of september. 
-Due date : friday 8th of october
 
 **Project : "how to survive a pandemic period".**
 
@@ -14,12 +12,11 @@ Due date : friday 8th of october
 - a welcome page 
 - 3 testimony pages (solo, duo and family / roomates)
 - mobile menu / desktop menu
-- define the tree website and create the html pages 
-- define a graphic chart
-- create the content
-- create a form to ask for more informations
+- a contact page with a contact form
 
-**details** 
-- testimony of members of the group (yann, sophie & ambre) 
-- forms to ask for more informations
-- duplicate the testimony pages and change the content for each testimony.
+
+This project uses 
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
